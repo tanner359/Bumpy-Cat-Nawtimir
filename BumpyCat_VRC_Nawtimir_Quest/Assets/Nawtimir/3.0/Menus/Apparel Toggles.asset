@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Apparel Toggles
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Hood Up
+    icon: {fileID: 2800000, guid: dbab57ddf45d82d4e8c5cb50f4f7fd31, type: 3}
+    type: 102
+    parameter:
+      name: Clothing/Hood State
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Body
+    icon: {fileID: 2800000, guid: 9cc833e093cec3b4da2d923bf6ed9e07, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d571ee827a1b7314a9e00ceee5aff062, type: 2}
+    subParameters: []
+    labels: []
+  - name: Head
+    icon: {fileID: 2800000, guid: 49461af1d13749744ace15e5fa5d8a10, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d6a28e9312cdbcf4eb8c055c8743f8ae, type: 2}
+    subParameters: []
+    labels: []

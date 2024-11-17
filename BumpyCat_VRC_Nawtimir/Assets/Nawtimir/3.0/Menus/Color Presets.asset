@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Color Presets
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Frost Burn
+    icon: {fileID: 2800000, guid: 92a8853b5a7050d449a056ee5bb25c46, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Colors
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Cobalt
+    icon: {fileID: 2800000, guid: 988c542c0d19fa24a932ddfc2f032547, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Colors
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blood in the Water
+    icon: {fileID: 2800000, guid: c8812ca007ec2224e8961d5154409989, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Colors
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Jade
+    icon: {fileID: 2800000, guid: 2109aa2822b26bb4cafd733e3a33b560, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Colors
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Golden
+    icon: {fileID: 2800000, guid: 1d3bcab9857452c4bb33f157a4b08d86, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Colors
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Dragon Fire
+    icon: {fileID: 2800000, guid: 51d71c6e88dd8a84a9abb1d6716fbd88, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Colors
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Crimson
+    icon: {fileID: 2800000, guid: cff5e1c73d819da47a0e6c9a60b431cb, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Colors
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Amethyst
+    icon: {fileID: 2800000, guid: 027c78e794145d048acd800c4da3feec, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Colors
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

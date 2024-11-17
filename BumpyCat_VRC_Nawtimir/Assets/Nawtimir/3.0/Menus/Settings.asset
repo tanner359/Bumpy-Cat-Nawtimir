@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Global Lighting
+    icon: {fileID: 2800000, guid: 7c1e88570d8648540ad6dc87019ddca0, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Settings/Global Lighting
+    labels: []
+  - name: Emission Strength
+    icon: {fileID: 2800000, guid: 7c1e88570d8648540ad6dc87019ddca0, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Settings/Emission Strength
+    labels: []
+  - name: No World Lighting
+    icon: {fileID: 2800000, guid: ad4e6cf4f7dfc6f48b0a4ba8963cbcc8, type: 3}
+    type: 102
+    parameter:
+      name: Settings/World Lighting
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Mute Notification
+    icon: {fileID: 2800000, guid: 43bc0c021cb159e4ba4744ed8d70e335, type: 3}
+    type: 102
+    parameter:
+      name: Settings/Mute Icon
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Avatar Sounds
+    icon: {fileID: 2800000, guid: ae2031f1950aae446a48606c7339e352, type: 3}
+    type: 102
+    parameter:
+      name: Settings/Avatar Sounds
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Particle Expressions
+    icon: {fileID: 2800000, guid: 1ee374df25e338a449e1a68b33c2613b, type: 3}
+    type: 102
+    parameter:
+      name: Settings/Particle Expressions
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Animal Idle Animation
+    icon: {fileID: 2800000, guid: c29ed3d28ddc2ed4eb1fae47bf74d184, type: 3}
+    type: 102
+    parameter:
+      name: Settings/Animal Idle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Facial Expressions
+    icon: {fileID: 2800000, guid: e337daf788bae1147ae2fac246260d06, type: 3}
+    type: 102
+    parameter:
+      name: Settings/Disable Facial Expressions
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

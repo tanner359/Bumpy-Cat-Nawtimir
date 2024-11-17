@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Stylization
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Hue Shifts
+    icon: {fileID: 2800000, guid: 610e5641197f8314a972bb08350c4938, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 74b299fbe875fb34da55525d3d0e6564, type: 2}
+    subParameters: []
+    labels: []
+  - name: Hair
+    icon: {fileID: 2800000, guid: 529ecfd9243720348931d789aead448e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 25459e3476b7999459458e50a3ab0783, type: 2}
+    subParameters: []
+    labels: []
+  - name: Apparel
+    icon: {fileID: 2800000, guid: c12dfaa2efffe114994f84dda9bbd93d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f947b013ed8800f4fa9de654c405c025, type: 2}
+    subParameters: []
+    labels: []
+  - name: Miscellaneous
+    icon: {fileID: 2800000, guid: a4de11d323479984cbf1507061cd5ec3, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5ee6c4395f554fe44ba6703be38bbc71, type: 2}
+    subParameters: []
+    labels: []

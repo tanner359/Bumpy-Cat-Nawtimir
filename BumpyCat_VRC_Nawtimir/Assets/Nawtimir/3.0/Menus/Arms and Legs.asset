@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Arms and Legs
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Robot Arm
+    icon: {fileID: 2800000, guid: ca36eef77bc381548bc1ad5114480f67, type: 3}
+    type: 102
+    parameter:
+      name: Accessories/Arms and Legs/Robot Arm
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Rings
+    icon: {fileID: 2800000, guid: 06a1f1e6d350afc43baa7d5cc8db937b, type: 3}
+    type: 102
+    parameter:
+      name: Accessories/Arms and Legs/Rings
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bracelet
+    icon: {fileID: 2800000, guid: 27211975add0f5b45a019f437ed52fb5, type: 3}
+    type: 102
+    parameter:
+      name: Accessories/Arms and Legs/Bracelet
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Glove
+    icon: {fileID: 2800000, guid: 71a765cac044c4c4daa9fe47bc505159, type: 3}
+    type: 102
+    parameter:
+      name: Accessories/Arms and Legs/Glove
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bandage
+    icon: {fileID: 2800000, guid: 8e2196b45163a8447ab45e8b81c3efce, type: 3}
+    type: 102
+    parameter:
+      name: Accessories/Arms and Legs/Bandage
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shoes
+    icon: {fileID: 2800000, guid: 857c9526314913649b199c428b4f5ec8, type: 3}
+    type: 102
+    parameter:
+      name: Accessories/Arms and Legs/Shoes
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Socks
+    icon: {fileID: 2800000, guid: b30b9a6daa58c614dbe09b5d8f81c2c2, type: 3}
+    type: 102
+    parameter:
+      name: Accessories/Arms and Legs/Socks
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Underwear
+    icon: {fileID: 2800000, guid: 6817d6ad1d563704b883514072ce9664, type: 3}
+    type: 102
+    parameter:
+      name: Accessories/Arms and Legs/Underwear
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Outfit Presets
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Default
+    icon: {fileID: 2800000, guid: 3899036ae1bbc06439f9cc69f2bb78de, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Apparel
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Undercover
+    icon: {fileID: 2800000, guid: 8c020f1da1f663d4b86497ffee15a9f0, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Apparel
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Casual
+    icon: {fileID: 2800000, guid: 606e486d1bb403e44a5e8078c2ad2e80, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Apparel
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Minimal
+    icon: {fileID: 2800000, guid: fd48e5acfd22b0c42abcc6a7623670f7, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Apparel
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shirtless
+    icon: {fileID: 2800000, guid: a12c0b8338a2bbf4ea1c805f40750140, type: 3}
+    type: 102
+    parameter:
+      name: Presets/Apparel
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

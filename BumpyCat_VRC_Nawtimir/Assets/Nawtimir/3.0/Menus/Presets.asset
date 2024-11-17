@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Presets
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Outfits
+    icon: {fileID: 2800000, guid: 0000728f25ea9ca4eb7fe307a6ae5a0f, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 484282a4a5206a74bb1284c4edf6aa52, type: 2}
+    subParameters: []
+    labels: []
+  - name: Colors
+    icon: {fileID: 2800000, guid: 2ff1c8fc91043ce438f036e2bdfeeb39, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 27a1bf4abad29ce43aa702baafa8b84a, type: 2}
+    subParameters: []
+    labels: []

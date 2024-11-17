@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Knives
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Right Knife
+    icon: {fileID: 2800000, guid: aa0e70e574d41754b8a026c28a53941b, type: 3}
+    type: 102
+    parameter:
+      name: Extras/Knives/Toggle R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Trails
+    icon: {fileID: 2800000, guid: d3b946b6062b57c488d2998fcb5e6328, type: 3}
+    type: 102
+    parameter:
+      name: Extras/Knives/Trails
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Left Knife
+    icon: {fileID: 2800000, guid: bcd8ec8a190daed47a66562e07aabca8, type: 3}
+    type: 102
+    parameter:
+      name: Extras/Knives/Toggle L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
